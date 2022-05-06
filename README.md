@@ -1,2 +1,2 @@
-# Pet-FACEPE-Atividades
+# PET-FACEPE-Atividades
 Atividade em Html
